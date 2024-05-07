@@ -16,6 +16,13 @@
   }
 }
 
+/* 햄버거바 */
+@media (max-width: 845px) {
+  .hamburger-icon {
+    display: block;
+  }
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
